@@ -20,8 +20,7 @@
 
 <p align="center">
                  
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?     
-style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                   
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>        
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
