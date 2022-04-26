@@ -7,10 +7,6 @@
 <tr>
 <td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@| Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@usd80 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="Jonathan Vargas Roa | Facebook" width="22px" src="./src/facebook.png" />][facebook]
 
 </td>
 </tr>
