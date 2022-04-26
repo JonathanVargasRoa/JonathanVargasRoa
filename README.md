@@ -1,5 +1,5 @@
 [![Jonathan Vargas Roa](src/100.webp)](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
-[](src/200w.webp)
+![](src/200w.webp)
 
 []<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="320" src="https://giphy.com/embed/u2wg2uXJbHzkXkPphr/video" width="480"></iframe></div>
 
