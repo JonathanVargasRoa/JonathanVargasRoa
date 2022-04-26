@@ -84,7 +84,7 @@
                  
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
--    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
+   <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
