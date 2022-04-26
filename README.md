@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 <img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
-<img src= 'https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr' width='200'/> 
+<img src= 'https://media.giphy.com/media/PQVRjWcnWOD6fYIMKP/giphy.gif' width='200'/> 
 
 
-[![Jonathan Vargas Roa](src/100.webp)
+
 //[](src/200w.webp)
 //[](src/100.gif)
 
