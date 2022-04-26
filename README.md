@@ -1,4 +1,5 @@
-[![Jonathan Vargas Roa](src/100.webp)(src/200.webp)](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
+[![Jonathan Vargas Roa](src/100.webp)](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
+[(src/200.webp)]
 
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
