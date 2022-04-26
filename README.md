@@ -5,7 +5,7 @@
 //[](src/200w.webp)
 //[](src/100.gif)
 
- <img src='https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr'width='200'/> 
+ <img src='https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr' width='200'/> 
 
 
 <details>
