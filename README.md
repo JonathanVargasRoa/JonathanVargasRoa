@@ -82,11 +82,11 @@
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <p align="center">
                  
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?
      <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?
+        <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?
      style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
                                                                                                                                                  
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
         
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
