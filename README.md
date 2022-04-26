@@ -13,15 +13,8 @@
 - 🗒  I am currently very obsected with learning vimscript
 </details>
 
-<br />
-
 ---
-
-
-                                                                                           
-
-----
-                                                                                          
+                                                                                       
 <td>
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 
