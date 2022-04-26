@@ -26,57 +26,7 @@
 
 ---
 
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
 
-<tr>
-<td>
-
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    GitManager(gm) git manager with a friendly user interface
-    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
-
-</td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
-                                                                                   
-<td> <h4 align="left"> <a href="https://github.com/" target="_blank"><code>vim-better-header</code></a> </h4>
-  
- <details>
-    <summary>
-      see more...</summary>
-
-    vim-better-header is a better automated template
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    VimTools is functions and settings
-    that will make it easy for you life
-
-  </details> </td>
-</tr>
-<tr>
                                                                                            
 
 ----
