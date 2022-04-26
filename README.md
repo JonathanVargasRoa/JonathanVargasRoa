@@ -1,6 +1,6 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
@@ -19,7 +19,7 @@
 <details>
   <summary>:zap: About me!</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
+### 🔬 
 - 🦾 I love the PowerLifting!
 - 🤓  I’m currently learning everything
 - 👾  I am very curious and that is why you start studying programming
