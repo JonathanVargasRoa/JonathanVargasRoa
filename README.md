@@ -83,11 +83,12 @@
                                                                                           
 <td>
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+
 <p align="center">
                  
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?     
-style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                         
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?     
+style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                   
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>        
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
@@ -104,7 +105,7 @@ style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
     <a href=" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
-</p>
+
 
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
