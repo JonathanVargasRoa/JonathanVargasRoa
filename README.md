@@ -1,4 +1,4 @@
-[![Jonathan Vargas Roa](src/100.webp)](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
+[![Jonathan Vargas Roa](src/100.webp)
 ![](src/200w.webp)
 ![](src/100.gif)
 
