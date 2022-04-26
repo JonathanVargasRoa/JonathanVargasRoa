@@ -4,8 +4,8 @@
 
 
 
-//[](src/200w.webp)
-//[](src/100.gif)
+[](src/200w.webp)
+[](src/100.gif)
 
  
 
