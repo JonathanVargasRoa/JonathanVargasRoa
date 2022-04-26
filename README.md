@@ -50,9 +50,12 @@
 
 </td>
 <img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
+                                                                                   
+<td> <h4 align="left"> <a href="https://github.com/" target="_blank"><code>vim-better-header</code></a> </h4>
+  
+ <details>
+    <summary>
+      see more...</summary>
 
     vim-better-header is a better automated template
 
@@ -82,8 +85,7 @@
 <h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <p align="center">
                  
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?
-        
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?     
 style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>                                                                                                                                         
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?
         <a href="" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>        
