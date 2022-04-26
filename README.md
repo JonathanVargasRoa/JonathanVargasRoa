@@ -2,10 +2,10 @@
 <img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
 
 [![Jonathan Vargas Roa](src/100.webp)
-![](src/200w.webp)
-[](src/100.gif)
+//[](src/200w.webp)
+//[](src/100.gif)
 
-<a href="" target=""> <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr"/> </a> 
+ <img src='https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr'width='200'/> 
 
 
 <details>
