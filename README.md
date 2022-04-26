@@ -1,10 +1,12 @@
+<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
+
+
 [![Jonathan Vargas Roa](src/100.webp)
 ![](src/200w.webp)
 ![](src/100.gif)
 
 <a href="" target=""> <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr"/> </a> 
 
-<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
 <details>
   <summary>:zap: About me!</summary>
