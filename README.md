@@ -3,7 +3,7 @@
 
 [![Jonathan Vargas Roa](src/100.webp)
 ![](src/200w.webp)
-![](src/100.gif)
+[](src/100.gif)
 
 <a href="" target=""> <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr"/> </a> 
 
