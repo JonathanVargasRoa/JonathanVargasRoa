@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
-
+<img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '400'/>
 
 [![Jonathan Vargas Roa](src/100.webp)
 ![](src/200w.webp)
