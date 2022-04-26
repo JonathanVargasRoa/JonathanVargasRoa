@@ -153,14 +153,14 @@
 - [Como usar Git con GitManager | MC Technology](https://www.youtube.com/watch?v=vs5CvLQFYhg)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
+➡️ [more videos...](https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w)
 
 ---
 
 <h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
-  <a href="https://github.com/mctechnology17">
+  <a href="https://github.com/JonathanVargasRoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -168,15 +168,16 @@
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
 
-[twitter]: https://twitter.com/mctechnology17
-[youtube]: https://www.youtube.com/c/mctechnology17
-[instagram]: https://www.instagram.com/mctechnology17/
-[facebook]: https://m.facebook.com/mctechnology17/
-[reddit]:https://www.reddit.com/user/mctechnology17
+[twitter]: 
+[youtube]: 
+[instagram]: 
+[facebook]: 
+[reddit]:
 
 [vimtools]: https://github.com/mctechnology17/vimtools
 [jailbreakrepo]: https://mctechnology17.github.io/
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
 [gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
+[YouTube]: https://www.youtube.com/channel/UCJEheDqsLqaxNXqWofyuD4w
+                                                                                                                                                    
