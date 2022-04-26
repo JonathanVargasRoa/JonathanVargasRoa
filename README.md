@@ -54,5 +54,10 @@
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
-
-                                                                                                                                           
+----
+ <p align="center">
+<img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width= '200'/>
+<img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif  ' width='200'/> 
+ <img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
+</p align="center">
+                                                                                                                                        
