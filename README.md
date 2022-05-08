@@ -55,6 +55,13 @@
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
+ ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=JonathanVargasRoa&theme=blueberry)
+ 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 ----
  <p align="center">
 <img src= 'https://media.giphy.com/media/xT1R9ZORSvL6jtqOeQ/giphy.gif' width='200'/>
