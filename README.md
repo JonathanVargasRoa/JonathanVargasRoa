@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hola Como estan!!!, Soy Jonathan Vargas Roa - <img src="./src/wave.gif" width="30px"></h1>
 
 <p align="center">
 <img src= 'https://media.giphy.com/media/3oFzmkNclul1fpMSC4/giphy.gif' width= '200'/>
